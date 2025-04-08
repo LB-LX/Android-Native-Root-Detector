@@ -25,7 +25,7 @@
     <string name="appinfo_unknown_version">未知</string>
     <string name="experimental_detections">实验性检测：%s</string>
     <string name="DayNight">暗色模式</string>
-    <string name="the_environment_is_normal">环境正常</string>
+    <string name="the_environment_is_normal">环境异常</string>
     <string name="the_environment_is_abnormal">环境异常</string>
     <string name="description_normal">未检测到对环境的修改。</string>
     <string name="description_abnormal">检测到对环境的修改。</string>
