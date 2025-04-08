@@ -19,7 +19,7 @@
     <string name="sysinfo_android_version">安卓版本：%s</string>
     <string name="sysinfo_kernel_version">内核版本：%s</string>
     <string name="appinfo">应用信息</string>
-    <string name="appinfo_version">应用版本：%s</string>
+    <string name="appinfo_version">应用版本：6.8.0</string>
     <string name="appinfo_signature">应用签名：%s</string>
     <string name="appinfo_is_signature_valid">签名有效：%s</string>
     <string name="appinfo_unknown_version">未知</string>
@@ -27,7 +27,7 @@
     <string name="DayNight">暗色模式</string>
     <string name="the_environment_is_normal">环境异常</string>
     <string name="the_environment_is_abnormal">环境异常</string>
-    <string name="description_normal">未检测到对环境的修改。</string>
+    <string name="description_normal">检测到对环境的修改。</string>
     <string name="description_abnormal">检测到对环境的修改。</string>
 
     <!-- 设置相关 -->
